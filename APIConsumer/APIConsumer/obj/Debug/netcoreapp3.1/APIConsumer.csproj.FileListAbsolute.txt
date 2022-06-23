@@ -1,0 +1,16 @@
+C:\Users\marcos.terrin\Repositorio\APIConsumer\APIConsumer\APIConsumer\bin\Debug\netcoreapp3.1\APIConsumer.exe
+C:\Users\marcos.terrin\Repositorio\APIConsumer\APIConsumer\APIConsumer\bin\Debug\netcoreapp3.1\APIConsumer.deps.json
+C:\Users\marcos.terrin\Repositorio\APIConsumer\APIConsumer\APIConsumer\bin\Debug\netcoreapp3.1\APIConsumer.runtimeconfig.json
+C:\Users\marcos.terrin\Repositorio\APIConsumer\APIConsumer\APIConsumer\bin\Debug\netcoreapp3.1\APIConsumer.runtimeconfig.dev.json
+C:\Users\marcos.terrin\Repositorio\APIConsumer\APIConsumer\APIConsumer\bin\Debug\netcoreapp3.1\APIConsumer.dll
+C:\Users\marcos.terrin\Repositorio\APIConsumer\APIConsumer\APIConsumer\bin\Debug\netcoreapp3.1\APIConsumer.pdb
+C:\Users\marcos.terrin\Repositorio\APIConsumer\APIConsumer\APIConsumer\obj\Debug\netcoreapp3.1\APIConsumer.csproj.AssemblyReference.cache
+C:\Users\marcos.terrin\Repositorio\APIConsumer\APIConsumer\APIConsumer\obj\Debug\netcoreapp3.1\APIConsumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcos.terrin\Repositorio\APIConsumer\APIConsumer\APIConsumer\obj\Debug\netcoreapp3.1\APIConsumer.AssemblyInfoInputs.cache
+C:\Users\marcos.terrin\Repositorio\APIConsumer\APIConsumer\APIConsumer\obj\Debug\netcoreapp3.1\APIConsumer.AssemblyInfo.cs
+C:\Users\marcos.terrin\Repositorio\APIConsumer\APIConsumer\APIConsumer\obj\Debug\netcoreapp3.1\APIConsumer.csproj.CoreCompileInputs.cache
+C:\Users\marcos.terrin\Repositorio\APIConsumer\APIConsumer\APIConsumer\obj\Debug\netcoreapp3.1\APIConsumer.dll
+C:\Users\marcos.terrin\Repositorio\APIConsumer\APIConsumer\APIConsumer\obj\Debug\netcoreapp3.1\APIConsumer.pdb
+C:\Users\marcos.terrin\Repositorio\APIConsumer\APIConsumer\APIConsumer\obj\Debug\netcoreapp3.1\APIConsumer.genruntimeconfig.cache
+C:\Users\marcos.terrin\Repositorio\APIConsumer\APIConsumer\APIConsumer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\marcos.terrin\Repositorio\APIConsumer\APIConsumer\APIConsumer\obj\Debug\netcoreapp3.1\APIConsumer.csproj.CopyComplete
